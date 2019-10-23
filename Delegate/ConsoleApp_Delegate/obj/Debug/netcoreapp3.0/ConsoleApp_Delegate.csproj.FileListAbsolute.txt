@@ -1,0 +1,11 @@
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\obj\Debug\netcoreapp3.0\ConsoleApp_Delegate.csprojAssemblyReference.cache
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\obj\Debug\netcoreapp3.0\ConsoleApp_Delegate.AssemblyInfoInputs.cache
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\obj\Debug\netcoreapp3.0\ConsoleApp_Delegate.AssemblyInfo.cs
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\bin\Debug\netcoreapp3.0\ConsoleApp_Delegate.exe
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\bin\Debug\netcoreapp3.0\ConsoleApp_Delegate.deps.json
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\bin\Debug\netcoreapp3.0\ConsoleApp_Delegate.runtimeconfig.json
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\bin\Debug\netcoreapp3.0\ConsoleApp_Delegate.runtimeconfig.dev.json
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\bin\Debug\netcoreapp3.0\ConsoleApp_Delegate.dll
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\bin\Debug\netcoreapp3.0\ConsoleApp_Delegate.pdb
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\obj\Debug\netcoreapp3.0\ConsoleApp_Delegate.dll
+D:\GitHub_Folders\DotNetInterviewCode\DotNetInterviewCode\Delegate\ConsoleApp_Delegate\obj\Debug\netcoreapp3.0\ConsoleApp_Delegate.pdb
