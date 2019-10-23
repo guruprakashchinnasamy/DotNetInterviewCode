@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConsoleApp_Encapsulation_AccessModifier/1.0.0": {
+        "runtime": {
+          "ConsoleApp_Encapsulation_AccessModifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp_Encapsulation_AccessModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

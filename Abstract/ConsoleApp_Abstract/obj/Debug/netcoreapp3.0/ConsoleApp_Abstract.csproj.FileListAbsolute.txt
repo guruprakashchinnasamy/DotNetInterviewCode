@@ -1,0 +1,11 @@
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\bin\Debug\netcoreapp3.0\ConsoleApp_Abstract.exe
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\bin\Debug\netcoreapp3.0\ConsoleApp_Abstract.deps.json
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\bin\Debug\netcoreapp3.0\ConsoleApp_Abstract.runtimeconfig.json
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\bin\Debug\netcoreapp3.0\ConsoleApp_Abstract.runtimeconfig.dev.json
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\bin\Debug\netcoreapp3.0\ConsoleApp_Abstract.dll
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\bin\Debug\netcoreapp3.0\ConsoleApp_Abstract.pdb
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\obj\Debug\netcoreapp3.0\ConsoleApp_Abstract.csprojAssemblyReference.cache
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\obj\Debug\netcoreapp3.0\ConsoleApp_Abstract.AssemblyInfoInputs.cache
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\obj\Debug\netcoreapp3.0\ConsoleApp_Abstract.AssemblyInfo.cs
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\obj\Debug\netcoreapp3.0\ConsoleApp_Abstract.dll
+D:\Application Test\Interview Preparation\Abstract\ConsoleApp_Abstract\obj\Debug\netcoreapp3.0\ConsoleApp_Abstract.pdb

@@ -1,0 +1,11 @@
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\bin\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.exe
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\bin\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.deps.json
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\bin\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.runtimeconfig.json
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\bin\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.runtimeconfig.dev.json
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\bin\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.dll
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\bin\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.pdb
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\obj\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.csprojAssemblyReference.cache
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\obj\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.AssemblyInfoInputs.cache
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\obj\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.AssemblyInfo.cs
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\obj\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.dll
+D:\Application Test\Interview Preparation\Inhiretance\ConsoleApp_Inhiretance\obj\Debug\netcoreapp3.0\ConsoleApp_Inhiretance.pdb
