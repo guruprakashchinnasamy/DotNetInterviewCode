@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 17,
+    "Username": "Guruprakash_chinnasamy",
+    "Name": "Guruprakash chinnasamy",
+    "Email": "guruprakash_chinnasamy@thbs.com",
+    "AvatarUrl": "http://172.24.3.20:8090/gitlab/uploads/user/avatar/17/avatar.png",
+    "PrivateToken": "1b60cec78a15deb7a16338c90c9e79e945b055ee20386eb047291591ba458c10",
+    "Host": "https://my.thbs.com/gitlab",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
